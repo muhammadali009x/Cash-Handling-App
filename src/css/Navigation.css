@@ -1,0 +1,21 @@
+.navigation {
+  width: 100%;
+}
+.navigation ul {
+  display: flex;
+  justify-content: space-around;
+}
+.navigation ul li {
+  display: inline-block;
+}
+.navigation__link {
+  text-shadow: 1px 1px 1px #b1afaf;
+  font-family: 'Quicksand', sans-serif;
+  text-decoration: none;
+  color: #fffcfc;
+  font-size: 40px;
+  font-weight: 400;
+}
+.navigation__link--active {
+  color: #F8F800;
+}

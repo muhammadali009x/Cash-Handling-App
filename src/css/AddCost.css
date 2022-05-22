@@ -1,0 +1,14 @@
+.addCost {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items:center;
+}
+.addCost h1 {
+  font-family: 'Quicksand', sans-serif;
+  font-size: 50px;
+  color: #fffcfc;
+  font-weight: 300;
+}

@@ -1,0 +1,21 @@
+.header {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  height: 20vh;
+  padding-bottom: 20px;
+  border-bottom: 2px solid #fffcfc;
+}
+.logo {
+  margin-bottom: 25px;
+}
+.logo__text {
+  text-shadow: 3px 3px 0 #111, 4px 4px 0 #F8F800;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 70px;
+  color: #fffcfc;
+  font-weight: 300;
+}
+.logo__image {
+  width: 50px;
+}
